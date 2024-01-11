@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
-<img alig="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
+<img alig="right" alt="coding" width="1920"  src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanpzp&label=Profile%20views&color=0e75b6&style=flat" alt="shayanpzp" /> </p>
 
