@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Django**
 
